@@ -1,4 +1,4 @@
-C:\Users\HP\OneDrive\Pictures\HR_Analytics.png
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,7 +76,7 @@ C:\Users\HP\OneDrive\Pictures\HR_Analytics.png
 <body>
   <div class="container">
     <!-- Replace the banner below with your own image -->
-    <img class="banner" src="./assets/hr-analytics-banner.png" alt="HR Analytics Project Banner" />
+    <img class="banner" src="./assets/C:\Users\HP\OneDrive\Pictures\HR_Analytics.png" alt="HR Analytics Project Banner" />
 
     <h1>HR Analytics Project</h1>
     <p class="lead">A detailed data analysis project focused on employee attrition, retention, performance, and workforce insights.</p>
