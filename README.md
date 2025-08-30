@@ -77,7 +77,7 @@
     <p><b>Ansh Aggarwal</b> | Data Analyst</p>
     <p>
       📧 Email: anshaggarwalll123@gmail.com <br>
-      🌐 GitHub: <a href="https://github.com/your-username" target="_blank">https://github.com/Anshagrwl</a>
+      🌐 GitHub: <a href="https://github.com/Anshagrwl" target="_blank">https://github.com/Anshagrwl</a>
     </p>
 
     <!-- Footer -->
